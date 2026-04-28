@@ -1,0 +1,7 @@
+Your conversation history:You: test
+AI: Hello! How can I assist you today? 😊
+
+You: wassup
+AI: Not much! Just here to help you out. What's up with you? 😎
+
+End of Conversation
