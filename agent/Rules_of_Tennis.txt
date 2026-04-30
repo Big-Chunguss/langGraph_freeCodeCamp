@@ -1,0 +1,71 @@
+## Rules of Tennis
+
+Tennis is a racket sport that can be played individually against a single opponent (singles) or between two teams of two players each (doubles). Each player uses a tennis racket to strike a hollow rubber ball covered with felt over or around a net and into the opponent's court. The objective is to play the ball in such a way that the opponent is not able to play a valid return.
+
+### Court Dimensions
+- A tennis court is 78 feet (23.77 meters) long.
+- The width is 27 feet (8.23 meters) for singles matches and 36 feet (10.97 meters) for doubles matches.
+- The court is divided into two halves by a net that is 3 feet (0.91 meters) high at the center.
+
+### Scoring System
+Tennis uses a unique scoring system that can be confusing for beginners. The points are as follows:
+
+1. **Points**: 
+   - No points: "Love"
+   - First point: "15"
+   - Second point: "30"
+   - Third point: "40"
+   - Fourth point: "Game"
+
+2. **Game**: A game is won when a player has scored at least four points and has a margin of at least two points over the opponent.
+
+3. **Deuce**: If both players reach 40 (deuce), a player must win two consecutive points to win the game.
+
+4. **Set**: A set consists of a sequence of games. To win a set, a player must win at least six games and have a margin of at least two games over the opponent.
+   - If the set reaches 6-6, a tiebreak is usually played.
+
+5. **Match**: A match is typically best of three or best of five sets. In professional tennis, men's matches are usually best of five sets, while women's and doubles matches are best of three sets.
+
+### Serving Rules
+- The server must stand behind the baseline, between the center mark and the singles sideline.
+- The serve must be hit diagonally into the opponent's service box.
+- A player gets two chances to hit a valid serve. If both serves are faults (i.e., the ball does not land in the correct service box), the player loses the point (double fault).
+- The serve alternates between the two halves of the court (left and right) after each point.
+
+### In-Play Rules
+- The ball must land within the boundaries of the court to be considered "in."
+- If the ball lands on the line, it is considered "in."
+- A player loses the point if:
+  - The ball bounces twice before being returned.
+  - The ball is hit into the net and does not go over.
+  - The ball is hit out of the court boundaries.
+  - The player touches the net while the ball is still in play.
+  - The player is hit by the ball before it bounces.
+
+### Let
+- If the ball touches the net during a serve but still lands in the correct service box, it is called a "let." The serve is replayed without penalty.
+
+### Ball in Play
+- The ball remains in play until it hits the ground, a fault is called, or the point is otherwise decided.
+- Players must allow the ball to bounce once on their side before returning it (except for a serve or a volley).
+
+### Change of Ends
+- Players change ends after every odd-numbered game (e.g., after the 1st, 3rd, 5th game, etc.).
+- In a tiebreak, players change ends after every 6 points.
+
+### Code Violation and Penalties
+- **Warnings**: Players may receive a warning for minor violations such as hindering an opponent.
+- **Penalties**: Repeated violations or major violations (e.g., racket abuse, verbal abuse) can result in penalties, including point deductions or disqualification.
+
+### Equipment
+- **Rackets**: Must adhere to specific size and weight regulations.
+- **Balls**: Must meet standards for size, weight, and bounce.
+- **Clothing**: Players are expected to wear appropriate tennis attire, typically including shirts, shorts or skirts, and tennis shoes.
+
+### Officials
+- **Chair Umpire**: Oversees the match, makes calls, and ensures the rules are followed.
+- **Line Judges**: Positioned around the court to make calls on whether the ball lands in or out.
+- **Ball Boys/Girls**: Retrieve balls and assist with the smooth flow of the match.
+
+### Summary
+Tennis is a sport that combines athleticism, strategy, and precision. Understanding the rules ensures fair play and enhances the enjoyment of the game for both players and spectators.
